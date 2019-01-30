@@ -8,7 +8,7 @@ Never stop learning because life never stops teaching.
 
 - [ ] Python basics
 - [ ] Complete https://github.com/jwasham/coding-interview-university
-      - [ ] Read Book `Data Structures and Algorithms in Python`
+      - Read Book `Data Structures and Algorithms in Python`
 - [ ] Complete https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - [ ] Complete https://github.com/GokuMohandas/practicalAI
 - [ ] Take networking and understand concepts

@@ -1,4 +1,4 @@
-!(https://github.com/arnetraff/learning-journey/raw/master/687474703a2f2f692e696d6775722e636f6d2f5245514b3056552e6a7067.jpg)
+![](https://github.com/arnetraff/learning-journey/raw/master/687474703a2f2f692e696d6775722e636f6d2f5245514b3056552e6a7067.jpg)
       
 
 # learning-journey

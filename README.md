@@ -12,3 +12,8 @@ Never stop learning because life never stops teaching.
 - [ ] Complete https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - [ ] Complete https://github.com/GokuMohandas/practicalAI
 - [ ] Take networking and understand concepts
+
+
+# Experince
+
+- [ ] You don't need to read a book to understand concepts. Some books contain duplicate lines and extra contents which is waste of time. A blog post or an online tutorial site can help better.
